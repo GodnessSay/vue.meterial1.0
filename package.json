@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "material-design-icons": "^3.0.1",
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.13.1",
     "sass-loader": "^6.0.7"
   }
 }
